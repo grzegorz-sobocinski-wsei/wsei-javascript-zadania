@@ -22,6 +22,9 @@ Następnie skommituj zmiany komendą `git commit -m "nazwa_commita"`
 * 2_Snippety
     * Tutaj znajdziesz kawałki kodu rozwiązujące różne problemy, mogą Ci się przydać w trakcie rozwiązywania zadań.
 
+* 2_Wykłady
+    * Tutaj znajdziesz pliki PDF które pomogą Ci wykonać zadania. Jest to materiał omawiany na Konwersatorium.
+
 Poszczególne zadania rozwiązuj w odpowiednich plikach.
 
 
